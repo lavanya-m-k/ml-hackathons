@@ -1,2 +1,2 @@
 # ml-hackathons
-Code related participated ML hackathons
+Code related to participation in ML hackathons
